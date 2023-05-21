@@ -1,0 +1,2 @@
+libuv é uma biblioteca C multiplataforma que providencia entrada/saída assíncrona baseado em um laço de eventos. 
+Para implementar chamadas bloqueantes de forma assíncrona, a libuv utiliza sockets assíncronos e uma thread pool
